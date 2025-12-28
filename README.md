@@ -30,5 +30,4 @@
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasdeep-singh)
 - 📧 Email: jasdeepsingh6864@gmail.com
